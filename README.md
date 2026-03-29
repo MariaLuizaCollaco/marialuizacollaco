@@ -6,7 +6,7 @@
 </div>
 
 
-## Sobre mim 
+## Sobre mim ##
 Olá! Meu nome é Maria Luiza, sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
 Possuo conhecimentos em **HTML, CSS, JavaScript e Node.js**, venho desenvolvendo minhas habilidades por meio de estudos contínuos e projetos práticos.
 Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias. 
