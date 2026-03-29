@@ -17,8 +17,8 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuizaCollaco&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuizaCollaco&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuizaCollaco&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuizaCollaco&layout=compact&theme=github_dark"/>
 </div>
 
 ---
