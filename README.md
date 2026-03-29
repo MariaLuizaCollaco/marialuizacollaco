@@ -6,15 +6,25 @@
 </div>
 
 
- Oi, eu sou a Maria Luiza ˙ᵕ˙ 💜  
-Sou criativa, curiosa e estou em constante aprendizado.  
-Tenho interesse em tecnologia, design e desenvolvimento 🍷 ๋࣭ ⭑
+ Olá! Eu sou a Maria Luiza 👾
 
-- 👩🏻‍💻 Atualmente em formação em **Análise e Desenvolvimento de Sistemas**
-- 💻 Foco futuro em **Full Stack**
-- 💓 Interesse em front-end, UI e experiência do usuário
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
+Possuo conhecimentos em **HTML, CSS, JavaScript e Node.js**, e venho desenvolvendo minhas habilidades por meio de estudos contínuos e projetos práticos.
 
 ---
+
+### 👩🏻‍💻 Atualmente
+Estou aprofundando meus conhecimentos em:
+- DevOps
+- Sistemas integrados
+- Inteligência Artificial
+- Hardware
+---
+### 𓍢ִ໋🌷͙֒ Interesses
+- Desenvolvimento web
+- Integração de sistemas
+- Automação de processos
+- Novas tecnologias
 
 ⌯⌲ **Entre em contato comigo pelo Linkedln:**
 - LinkedIn: www.linkedin.com/in/maria-luiza-collaço-a6a14b28a
