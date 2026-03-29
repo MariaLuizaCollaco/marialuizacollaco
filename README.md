@@ -8,6 +8,7 @@
 ---
 ## Sobre mim ##
 Olá! Meu nome é Maria Luiza, tenho interesse na área de Tecnologia da Informação, com foco em desenvolvimento Full Stack. Possuo conhecimentos em HTML, CSS, JavaScript e Node.js, e venho desenvolvendo minhas habilidades por meio de estudos e projetos práticos.
+<br>
 Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias.
 
 ---
