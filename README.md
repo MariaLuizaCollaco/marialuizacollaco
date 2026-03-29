@@ -5,15 +5,12 @@
 
 </div>
 
-
-## Sobre mim ##
-
-Olá! Meu nome é Maria Luiza, sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
-Possuo conhecimentos em **HTML, CSS, JavaScript e Node.js**, venho desenvolvendo minhas habilidades por meio de estudos contínuos e projetos práticos.
-Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias. 
 ---
+## Sobre mim ##
+Olá! Meu nome é Maria Luiza, tenho interesse na área de Tecnologia da Informação, com foco em desenvolvimento Full Stack. Possuo conhecimentos em HTML, CSS, JavaScript e Node.js, e venho desenvolvendo minhas habilidades por meio de estudos e projetos práticos.
+Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias.
 
- 
+---
 ### Minhas Habilidades
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
