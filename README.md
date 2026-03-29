@@ -5,26 +5,13 @@
 
 </div>
 
-
- Olá! Eu sou a Maria Luiza 👾
-
+# Sobre mim 
+---
+Olá! Meu nome é Maria Luiza 👾
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
-Possuo conhecimentos em **HTML, CSS, JavaScript e Node.js**, e venho desenvolvendo minhas habilidades por meio de estudos contínuos e projetos práticos.
+Possuo conhecimentos em **HTML, CSS, JavaScript e Node.js**, venho desenvolvendo minhas habilidades por meio de estudos contínuos e projetos práticos.
 
----
-
-### 👩🏻‍💻 Atualmente
-Estou aprofundando meus conhecimentos em:
-- DevOps
-- Sistemas integrados
-- Inteligência Artificial
-- Hardware
----
-### 𓍢ִ໋🌷͙֒ Interesses
-- Desenvolvimento web
-- Integração de sistemas
-- Automação de processos
-- Novas tecnologias
+Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias.
 
 ⌯⌲ **Entre em contato comigo pelo Linkedln:**
 - LinkedIn: www.linkedin.com/in/maria-luiza-collaço-a6a14b28a
@@ -36,10 +23,12 @@ Estou aprofundando meus conhecimentos em:
  
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
  --- 
 
