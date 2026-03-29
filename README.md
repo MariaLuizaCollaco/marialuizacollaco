@@ -14,11 +14,11 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaLuizaCollaco&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+## 📊 Estatísticas
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuizaCollaco&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuizaCollaco&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
