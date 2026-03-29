@@ -13,6 +13,10 @@ Possuo conhecimentos em HTML, CSS, JavaScript e Node.js, e venho desenvolvendo m
 Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware.
 
 ---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaLuizaCollaco&show_icons=true&theme=tokyonight)
+
+---
 ### Minhas Habilidades
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
