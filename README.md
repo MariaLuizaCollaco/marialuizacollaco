@@ -23,11 +23,7 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
  --- 
-## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block"><br>
 
