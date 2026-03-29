@@ -4,23 +4,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e33b7&size=35&center=true&vCenter=true&width=1000&lines=٠࣪⭑Welcome+to+my+profile!𝜗ৎ)](https://git.io/typing-svg) 
 
 </div>
-
+---
 ## Sobre mim 
 
-Olá! Meu nome é Maria Luiza -`♡´-
-<br>
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
+Olá! Meu nome é Maria Luiza, sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
 Possuo conhecimentos em **HTML, CSS, JavaScript e Node.js**, venho desenvolvendo minhas habilidades por meio de estudos contínuos e projetos práticos.
 
-Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias.
-
-⌯⌲ **Entre em contato comigo pelo Linkedln:**
-- LinkedIn: www.linkedin.com/in/maria-luiza-collaço-a6a14b28a
-<div style="display: inline_block"><br>
- 
+Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware, buscando compreender de forma mais ampla o funcionamento e a integração de diferentes tecnologias. 
 ---
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
  
 ### Minhas Habilidades
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
