@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e33b7&size=35&center=true&vCenter=true&width=1000&lines=٠࣪⭑Welcome+to+my+profile!𝜗ৎ)](https://git.io/typing-svg) 
 
 </div>
----
 ## Sobre mim 
 
 Olá! Meu nome é Maria Luiza, sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse na área de **Tecnologia da Informação** e foco em desenvolvimento **Full Stack**.
