@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7cdaf9&size=24&center=true&vCenter=true&width=900&font=JetBrains+Mono&lines=Welcome+to+my+profile+𝜗ৎ)](https://git.io/typing-svg)
 
-<div>
+
  
 ---
 ## Sobre mim ##
