@@ -13,7 +13,6 @@ Possuo conhecimentos em HTML, CSS, JavaScript e Node.js, e venho desenvolvendo m
 Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware.
 
 ---
-
 ## 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizacollaco&show_icons=true&theme=radical)
