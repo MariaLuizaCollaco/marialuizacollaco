@@ -11,6 +11,9 @@ Possuo conhecimentos em HTML, CSS, JavaScript e Node.js, e venho desenvolvendo m
 Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados, inteligência artificial e hardware.
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?marialuizacollaco=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 
 ### 🚀 Minhas Habilidades
 
