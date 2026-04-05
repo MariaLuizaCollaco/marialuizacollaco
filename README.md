@@ -14,12 +14,12 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados
 
 <div align="center" style="display: inline_block"><br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marialuizacollaco&theme=tokyonight" height="180"/>
-  <div align="center">
+  
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialuizacollaco&theme=tokyonight"/>
 </div>
+
 <br>
-  
+
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
