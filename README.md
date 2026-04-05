@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A3D63&height=120&section=header"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=685878&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=waving&height=110&text=Input%20text)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7cdaf9&size=24&center=true&vCenter=true&width=900&font=JetBrains+Mono&lines=Welcome+to+my+profile;I´m+a+student+of+Analysis+Systems)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=685878&size=24&center=true&vCenter=true&width=900&font=JetBrains+Mono&lines=Welcome+to+my+profile+˙ᵕ˙;Systems+Analysis+and+Development+Student)](https://git.io/typing-svg)
 
 ## Sobre mim ##
 Olá! Meu nome é Maria Luiza, tenho interesse na área de Tecnologia da Informação, com foco em desenvolvimento Full Stack.  
@@ -19,6 +17,8 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados
 </div>
 
 <br>
+<br>
+
 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
@@ -30,3 +30,4 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, sistemas integrados
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=685878&height=120&section=footer"/>
