@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=685878&size=24&center=true&vCenter=true&width=900&font=JetBrains+Mono&lines=Welcome+to+my+profile+˙ᵕ˙;Systems+Analysis+and+Development+Student)](https://git.io/typing-svg)
 
 ## Sobre mim ##
-Olá! Meu nome é Maria Luiza.
+Olá! Meu nome é Maria Luiza ˙ᵕ˙
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse na área de Tecnologia da Informação, especialmente em suporte técnico, infraestrutura, hardware, sistemas operacionais e computação em nuvem.
 Venho desenvolvendo meus conhecimentos por meio de estudos, certificações e projetos práticos utilizando AWS, Python, Git, GitHub, HTML, CSS, JavaScript e MySQL.
