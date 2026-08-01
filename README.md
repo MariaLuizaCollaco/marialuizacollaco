@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=685878&size=24&center=true&vCenter=true&width=900&font=JetBrains+Mono&lines=Welcome+to+my+profile+˙ᵕ˙;Systems+Analysis+and+Development+Student)](https://git.io/typing-svg)
 
 ## Sobre mim ##
-Olá! Meu nome é Maria Luiza, tenho interesse na área de Tecnologia da Informação, com foco em desenvolvimento Full Stack.  
-Possuo conhecimentos em HTML, CSS, JavaScript e Node.js, e venho desenvolvendo minhas habilidades por meio de estudos e projetos práticos.  
+Olá! Meu nome é Maria Luiza.
 
-Atualmente, estou aprofundando meus conhecimentos em AWS, DevOps, Sistemas Integrados, Inteligência artificial e Infraestrutura.
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse na área de Tecnologia da Informação, especialmente em suporte técnico, infraestrutura, hardware, sistemas operacionais e computação em nuvem.
+Venho desenvolvendo meus conhecimentos por meio de estudos, certificações e projetos práticos utilizando AWS, Python, Git, GitHub, HTML, CSS, JavaScript e MySQL.
+
+Atualmente, continuo aprimorando minhas habilidades em infraestrutura, AWS, DevOps e Inteligência Artificial.
 
 ---
 
