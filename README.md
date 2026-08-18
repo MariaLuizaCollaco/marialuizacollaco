@@ -3,33 +3,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=685878&size=24&center=true&vCenter=true&width=900&font=JetBrains+Mono&lines=Welcome+to+my+profile+˙ᵕ˙;Systems+Analysis+and+Development+Student)](https://git.io/typing-svg)
 
 ## Sobre mim ##
+
 Olá! Meu nome é Maria Luiza ˙ᵕ˙
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse na área de Tecnologia da Informação, especialmente em suporte técnico, infraestrutura, hardware, sistemas operacionais e computação em nuvem.
-Venho desenvolvendo meus conhecimentos por meio de estudos, certificações e projetos práticos utilizando AWS, Python, Git, GitHub, HTML, CSS, JavaScript e MySQL.
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse na área de Tecnologia da Informação, especialmente em **suporte técnico, infraestrutura, hardware e sistemas operacionais**.
 
-Atualmente, continuo aprimorando minhas habilidades em infraestrutura, AWS, DevOps e Inteligência Artificial.
+Venho desenvolvendo meus conhecimentos por meio de estudos e projetos práticos utilizando **AWS, Python, Git, GitHub, HTML, CSS, JavaScript e MySQL**.
+
+Atualmente, estou aprimorando meus conhecimentos em **infraestrutura, AWS e DevOps**.
 
 ---
 
-<div align="center" style="display: inline_block"><br>
+## Tecnologias
+
 <div align="center">
-  
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialuizacollaco&theme=tokyonight"/>
+
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+
 </div>
 
-<br>
-<br>
+---
 
-
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=685878&height=120&section=footer"/>
